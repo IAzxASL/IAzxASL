@@ -5,4 +5,3 @@
 
 [STRAW](https://iazx.straw.page) 
 [ATABOOK](https://iazx.atabook.org/)
-[</p>]
